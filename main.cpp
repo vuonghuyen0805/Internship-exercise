@@ -2,6 +2,7 @@
 
 void do_something() {
     cout << "Doing something..." ;
+    cout << "Doing something..." ;
 }
 
 int main() {
